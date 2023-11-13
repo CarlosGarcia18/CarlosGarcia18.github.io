@@ -67,7 +67,10 @@ H3{
 
 }
 .header__logo {
-    margin: 3rem 0;
+    width: 150px;
+    height: auto;
+    border-radius: 5px;
+    margin: 3rem;
 }
 /** FOOTER**/
 .footer {
