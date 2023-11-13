@@ -1,7 +1,7 @@
 :root {
-    --primario: #9c27b0;
-    --primarioOscuro: #89119d;
-    --secundario:#ffc300;
+    --primario: #084cca;
+    --primarioOscuro: #000000;
+    --secundario:rgb(48, 52, 73);
     --secundarioOscuro: rgb(233,287,2);
     --blanco: #fff;
     --negro:#000;
