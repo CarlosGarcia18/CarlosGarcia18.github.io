@@ -209,11 +209,13 @@ H3{
     .nosotros {
         grid-template-columns: repeat(2,1fr);
         column-gap: 2rem;
+        margin: 5rem;
     }
-}   
+}
 
 .nosotros__imagen {
     display: grid;
+    border-radius: 2rem;
     grid-row: 1 / 2;
 }
 @media (min-width: 768px) {
