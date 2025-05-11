@@ -256,6 +256,7 @@ H3{
 .camisa__imagen,
 .camisa__contenido {
     padding: 2rem;
+    color: var(--negro)
 }
 .camisa__imagen {
     background-color: var(--primarioOscuro)
