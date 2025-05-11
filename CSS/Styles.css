@@ -27,7 +27,7 @@ body {
 p {
     font-size: 1.8rem;
     font-family: 'Playfair Display';
-    color: var(--blanco);
+    color: var(--negro);
 }
 
 a {
