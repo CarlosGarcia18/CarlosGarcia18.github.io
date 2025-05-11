@@ -216,6 +216,7 @@ H3{
     display: grid;
     border-radius: 2rem;
     grid-row: 1 / 2;
+    filter: brightness(0);
 }
 @media (min-width: 768px) {
     .nosotros__imagen{
